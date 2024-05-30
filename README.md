@@ -1,4 +1,4 @@
-# Simple basic login cracker written in GO
+# Simple basic auth login cracker written in GO
 
 ## Description
 
